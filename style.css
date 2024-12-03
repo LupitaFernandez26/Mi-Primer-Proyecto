@@ -1,0 +1,62 @@
+/*Colocar etiqueta */
+
+body{
+    background-color: #f8f1e9;
+    /* background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,120,1) 51%, rgba(0,212,255,1) 100%); */
+/* Tipos de letras  sacado de web*/
+  font-family: "Bitter", serif;
+  font-size: 15px;
+}
+/*img{
+    
+    width: 200px; ancho
+    
+    height: auto; alto
+   
+    border-radius: 25px; borde
+
+     opacity: 50%; opaccidad
+
+      border: dotted; borde
+
+      diplay: se refiere a la pantalla 
+}
+*/
+.morat{
+    width: 350px;
+    border-radius: 15px;
+    opacity: 0.5;
+    color: black;
+
+}
+.morat_banda{
+    width: 250px;
+    border-radius: 10px;
+    border: solid;
+}
+
+h1{
+    text-align: center;
+    text-decoration: dashed;
+    color: blue;
+    text-transform: capitalize;
+    text-decoration-line: overline;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+.conocer{
+    background-color: rgb(89, 233, 233);
+    background-image:url("https://i.pinimg.com/736x/54/70/cc/5470ccdb630aa59295be7db1095de164.jpg") ;
+    font-size: 20px;
+    color: blue;
+    background-blend-mode: multiply;
+}
+.imagenes{
+    /* Alinear las imagenes */
+    text-align: center;
+}
+
